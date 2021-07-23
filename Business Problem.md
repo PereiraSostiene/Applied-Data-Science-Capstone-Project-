@@ -16,3 +16,4 @@ Mexican food is spicy, and the most delicious meals include beef or pork, which 
 
 Then, the purpose of this data science project is to help tourists in Mexico City to find restaurants of their preference, 
 that is, in which neighborhoods of Mexico City they will find different types of restaurants (Fast food, Vegetarian food, Italian, Japanese and so on). 
+The target audience are both Mexican and foreign tourists.
